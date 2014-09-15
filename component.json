@@ -1,0 +1,9 @@
+{
+    "name": "arale-templatable",
+    "version": "0.10.0",
+    "main": "src/templatable.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/handlebars": "master"
+    }
+}
