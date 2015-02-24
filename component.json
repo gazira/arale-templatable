@@ -4,6 +4,6 @@
     "main": "src/templatable.js",
     "dependencies": {
         "component/jquery": "1.0.0",
-        "gazira/handlebars": "master"
+        "gazira/handlebars": "3.0.0"
     }
 }
